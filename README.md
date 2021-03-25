@@ -34,7 +34,7 @@ To fetch the whole metadata we need to run
 
 
 2) We will fetch single metadata just by entering the key. Suppose we want to get the "ami-id" data from the instance. To get this 
-we need to run 
+we need to run **(Bonus Point)**
    
     `python get_metadata.py -o key -k ami-id`
 
